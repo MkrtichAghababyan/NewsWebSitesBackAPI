@@ -1,0 +1,6 @@
+@NewsExtractor_HostAddress = http://localhost:5189
+
+GET {{NewsExtractor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
